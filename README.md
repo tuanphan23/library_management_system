@@ -1,5 +1,5 @@
 # LIBRARY_MANAGEMENT_SYSTEM
-A software for librarian control and keep track of issueing and returning of book in the library
+Software for the librarian keep track of issuing and returning of the book in the library
 
 Using Java Swing for Front End and MySQL for database.
 
